@@ -1,8 +1,52 @@
+.main-content {
+  background-color: #efefef;
+  color: #a9a9a9;
+}
+
 .about {
+  color: #a9a9a9;
   border-bottom-style: solid;
   border-bottom-width: thick;
   border-bottom-left-radius: 20px;
-  width: 75%;
+  width: 50%;
+}
+
+.education {
+  color: #a9a9a9;
+  border-bottom-style: solid;
+  border-bottom-width: thick;
+  border-bottom-left-radius: 20px;
+  width: 50%;
+}
+
+.soft-office {
+  vertical-align: text-top;
+  display: inline-block;
+  width: 275px;
+  height: 280px;
+  margin: 10px;
+}
+
+.soft-field {
+  vertical-align: text-top;
+  display: inline-block;
+  width: 275px;
+  height: 280px;
+  margin: 10px;
+}
+
+.soft {
+  border-bottom-style: solid;
+  border-bottom-width: thick;
+  border-bottom-left-radius: 20px;
+  width: 50%;
+}
+
+.hardware {
+  border-bottom-style: solid;
+  border-bottom-width: thick;
+  border-bottom-left-radius: 20px;
+  width: 50%;
 }
 
 .school {
@@ -13,6 +57,7 @@
 h1 {
   font-family: 'Oswald', sans-serif;
   font-size: 36px;
+  background-color: #caebf2;
 }
 
 h2 {
