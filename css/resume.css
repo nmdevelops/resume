@@ -1,0 +1,41 @@
+.about {
+  border-bottom-style: solid;
+  border-bottom-width: thick;
+  border-bottom-left-radius: 20px;
+  width: 75%;
+}
+
+.school {
+  font-family: 'Oswald', sans-serif;
+  font-size: 22px;
+}
+
+h1 {
+  font-family: 'Oswald', sans-serif;
+  font-size: 36px;
+}
+
+h2 {
+  font-family: 'Oswald', sans-serif;
+  font-size: 24px;
+}
+
+h3 {
+  font-family: 'Oswald', sans-serif;
+  font-size: 22px;
+}
+
+h4 {
+  font-family: 'Oswald', sans-serif;
+  font-size: 20px;
+}
+
+p {
+  font-family: 'Raleway', sans-serif;
+  font-size: 18px;
+}
+
+ul {
+  font-family: 'Raleway', sans-serif;
+  font-size: 18px;
+}
